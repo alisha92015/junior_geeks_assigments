@@ -1,0 +1,4 @@
+name:alisha
+age:11
+city:new delhi
+

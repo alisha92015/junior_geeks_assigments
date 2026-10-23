@@ -1,0 +1,9 @@
+mv
+restore
+ls
+cd ..
+mkdir
+cp
+touch
+cd
+pwd
